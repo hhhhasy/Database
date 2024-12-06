@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/list.jpg</file>
+    <file>image/women.jpeg</file>
+    <file>image/man.jpg</file>
+    <file>image/list.jpg</file>
+    <file>image/information.jpg</file>
+  </qresource>
+  <qresource prefix="新前缀"/>
+</RCC>
